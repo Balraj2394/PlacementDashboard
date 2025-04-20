@@ -1,0 +1,42 @@
+[
+  {
+      "studentName": "Anjali",
+      "department": "CSE",
+      "company": "TCS",
+      "experience": "They asked basics of OOP, DBMS, and one easy DSA problem.",
+      "roundCount": 2,
+      "year": 2024
+  },
+  {
+      "studentName": "Rahul",
+      "department": "ECE",
+      "company": "Infosys",
+      "experience": "Technical round had questions on circuits and aptitude. HR was casual.",
+      "roundCount": 3,
+      "year": 2024
+  },
+  {
+      "studentName": "Sneha",
+      "department": "CSE",
+      "company": "Amazon",
+      "experience": "Two tough DSA rounds, system design, and behavioral round.",
+      "roundCount": 4,
+      "year": 2024
+  },
+  {
+      "studentName": "Karthik",
+      "department": "EEE",
+      "company": "Cognizant",
+      "experience": "More HR-focused, they asked about projects and resume.",
+      "roundCount": 2,
+      "year": 2024
+  },
+  {
+      "studentName": "Meena",
+      "department": "ECE",
+      "company": "Zoho",
+      "experience": "Focused on C programming and logic puzzles. Very interactive panel.",
+      "roundCount": 3,
+      "year": 2024
+  }
+]

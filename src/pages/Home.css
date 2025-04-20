@@ -1,0 +1,20 @@
+/* src/pages/Home.css */
+.home-container {
+    min-height: 100vh;
+    background-image: url('https://imgs.search.brave.com/MiEmxWFoIqF6Ii7GnhbwGddObm9E0ZY7CzpuM7CcCug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmpkbWFnaWNi/b3guY29tL2NvbXAv/cmFzaXB1cmFtLzkw/Lzk5OTlwbXVsY2hu/c3RkMTAwMTc5MC9j/YXRhbG9ndWUvbXV0/aGF5YW1tYWwtZW5n/aW5lZXJpbmctY29s/bGVnZS1rYWtrYXZl/cmktcmFzaXB1cmFt/LW1lY2hhbmljYWwt/ZW5naW5lZXJpbmct/Y29sbGVnZXMtejlj/bWZ3ZHJyMi5qcGc_/dz0zODQwJnE9NzU');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .home-text {
+    background-color: rgba(0, 0, 0, 0.6);  /* Optional: adds overlay to improve text contrast */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  

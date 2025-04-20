@@ -1,0 +1,92 @@
+/* Global Styles */
+body {
+    background-color: #f4f7fc;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Container for the form */
+  .container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+  
+  /* Heading Styles */
+  h2 {
+    color: #4e73df;
+    font-weight: bold;
+  }
+  
+  /* Form Labels */
+  label {
+    color: #495057;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  
+  /* Input Styles */
+  input.form-control {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 15px;
+    transition: border 0.3s ease;
+  }
+  
+  input.form-control:focus {
+    border-color: #4e73df;
+    outline: none;
+    box-shadow: 0 0 5px rgba(78, 115, 223, 0.6);
+  }
+  
+  /* Submit Button Styles */
+  button[type="submit"] {
+    background-color: #4e73df;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    padding: 12px;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #2e59d9;
+    cursor: pointer;
+  }
+  
+  /* Link Text */
+  a {
+    color: #4e73df;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Footer Text */
+  p {
+    color: #495057;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 576px) {
+    .container {
+      padding: 20px;
+    }
+  
+    h2 {
+      font-size: 1.5rem;
+    }
+  
+    input.form-control {
+      font-size: 14px;
+    }
+  }
+  
